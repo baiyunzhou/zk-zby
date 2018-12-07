@@ -1,0 +1,6 @@
+module com.zby.jute.bean {
+	class Person{
+		ustring username;
+		int age;
+	}
+ }
